@@ -857,7 +857,7 @@
     "COMPANY": "ZSWatch",
     "DESIGNER": "Daniel Kampert",
     "FABRICATION_NOTES": "",
-    "GIT_HASH_PCB": "410ee08",
+    "GIT_HASH_PCB": "d2a16f9",
     "GIT_HASH_SCH": "410ee08",
     "GIT_URL": "https://github.com/ZSWatch/Dock-HW",
     "PROJECT_NAME": "ZSWatch Dock",
@@ -908,6 +908,6 @@
     "SHEET_NAME_7": "......................................",
     "SHEET_NAME_8": "......................................",
     "SHEET_NAME_9": "......................................",
-    "VARIANT": "RELEASED"
+    "VARIANT": "CHECKED"
   }
 }

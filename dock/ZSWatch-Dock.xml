@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/__w/Dock-HW/Dock-HW/dock/ZSWatch-Dock.kicad_sch</source>
-    <date>2025-09-07T19:02:30+0000</date>
+    <date>2025-09-07T20:03:13+0000</date>
     <tool>Eeschema 9.0.1+1</tool>
     <textvar name="ASSEMBLY_NOTES"/>
     <textvar name="BOARD_NAME">Dock-HW</textvar>
     <textvar name="COMPANY">ZSWatch</textvar>
     <textvar name="DESIGNER">Daniel Kampert</textvar>
     <textvar name="FABRICATION_NOTES"/>
-    <textvar name="GIT_HASH_PCB">410ee08</textvar>
+    <textvar name="GIT_HASH_PCB">d2a16f9</textvar>
     <textvar name="GIT_HASH_SCH">410ee08</textvar>
     <textvar name="GIT_URL">https://github.com/ZSWatch/Dock-HW</textvar>
     <textvar name="PROJECT_NAME">ZSWatch Dock</textvar>
@@ -94,7 +94,7 @@ Changed
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">RELEASED</textvar>
+    <textvar name="VARIANT">CHECKED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Dock-DevKit</title>
